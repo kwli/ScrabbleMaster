@@ -1,0 +1,42 @@
+﻿namespace ScrabbleMaster
+{
+    public enum Character : byte
+    {
+        EMPTY = 0xB7,
+        NEWLINE = 0x0A,
+        CARRIAGE_RETURN = 0x0D,
+        STAR = 0x2A,
+        A = 0x61,
+        Ą = 0xB9,
+        B = 0x62,
+        C = 0x63,
+        Ć = 0xE6,
+        D = 0x64,
+        E = 0x65,
+        Ę = 0xEA,
+        F = 0x66,
+        G = 0x67,
+        H = 0x68,
+        I = 0x69,
+        J = 0x6A,
+        K = 0x6B,
+        L = 0x6C,
+        Ł = 0xB3,
+        M = 0x6D,
+        N = 0x6E,
+        Ń = 0xF1,
+        O = 0x6F,
+        Ó = 0xF3,
+        P = 0x70,
+        R = 0x72,
+        S = 0x73,
+        Ś = 0x9C,
+        T = 0x74,
+        U = 0x75,
+        W = 0x77,
+        Y = 0x79,
+        Z = 0x7A,
+        Ź = 0x9F,
+        Ż = 0xBF
+    }
+}

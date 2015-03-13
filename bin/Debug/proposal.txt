@@ -1,0 +1,98 @@
+lny: 0
+GetWord: 2
+Bonus: BLUE
+GetWord: 3
+Bonus: EMPTY
+Multi: 1
+ "lny", 3 (8,7) HOR: False(GetWord: 2
+Bonus: BLUE
+GetWord: 3
+Bonus: EMPTY
+Multi: 1
+5 punktów)
+···············
+···············
+···············
+···············
+···············
+···············
+···············
+······dale·····
+········n······
+········y······
+···············
+···············
+···············
+···············
+···············
+
+------------------
+
+
+GetWord: 2
+Bonus: BLUE
+GetWord: 3
+Bonus: EMPTY
+Multi: 1
+GetWord: 2
+Bonus: BLUE
+GetWord: 3
+Bonus: EMPTY
+Multi: 1
+·············
+
+------------------
+
+
+S¹siad: 8, 7 L - 2 punktów
+GetWord: 2
+Bonus: BLUE
+S¹siad: 9, 7 E - 1 punktów
+GetWord: 4
+Bonus: EMPTY
+GetWord: 5
+Bonus: EMPTY
+Multi: 1
+S¹siad: 8, 7 L - 2 punktów
+GetWord: 2
+Bonus: BLUE
+S¹siad: 9, 7 E - 1 punktów
+GetWord: 4
+Bonus: EMPTY
+GetWord: 5
+Bonus: EMPTY
+Multi: 1
+
+, 7 E - 1 punktów
+GetWord: 4
+Bonus: EMPTY
+GetWord: 5
+Bonus: EMPTY
+GetWord: 6
+Bonus: YELLOW
+Multi: 1
+MPTY
+Multi: 1
+: 1
+GetWord: 0
+Bonus: BLUE
+GetWord: 3
+Bonus: BLUE
+GetWord: 5
+Bonus: EMPTY
+GetWord: 7
+Bonus: EMPTY
+GetWord: 8
+Bonus: YELLOW
+Multi: 1
+GetWord: 0
+Bonus: BLUE
+GetWord: 3
+Bonus: BLUE
+GetWord: 5
+Bonus: EMPTY
+GetWord: 7
+Bonus: EMPTY
+GetWord: 8
+Bonus: YELLOW
+Multi: 1

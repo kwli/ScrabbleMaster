@@ -1,0 +1,9 @@
+D:\Programowanie\C#\ScrabbleMaster\ScrabbleMaster\bin\Debug\ScrabbleMaster.exe.config
+D:\Programowanie\C#\ScrabbleMaster\ScrabbleMaster\bin\Debug\slowa-win.txt
+D:\Programowanie\C#\ScrabbleMaster\ScrabbleMaster\bin\Debug\ScrabbleMaster.exe
+D:\Programowanie\C#\ScrabbleMaster\ScrabbleMaster\bin\Debug\ScrabbleMaster.pdb
+D:\Programowanie\C#\ScrabbleMaster\ScrabbleMaster\obj\Debug\ScrabbleMaster.csprojResolveAssemblyReference.cache
+D:\Programowanie\C#\ScrabbleMaster\ScrabbleMaster\obj\Debug\ScrabbleMaster.ScrabbleForm.resources
+D:\Programowanie\C#\ScrabbleMaster\ScrabbleMaster\obj\Debug\ScrabbleMaster.csproj.GenerateResource.Cache
+D:\Programowanie\C#\ScrabbleMaster\ScrabbleMaster\obj\Debug\ScrabbleMaster.exe
+D:\Programowanie\C#\ScrabbleMaster\ScrabbleMaster\obj\Debug\ScrabbleMaster.pdb
